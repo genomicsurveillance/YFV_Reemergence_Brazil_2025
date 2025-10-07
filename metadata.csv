@@ -1,0 +1,26 @@
+ID,Ct,Sample_type,Age,gender,Collection_date,Estado,Municipio,Classification,Host,Name_seq,Assignment,Reads,Depth of Coverage,Coverage,Lineages
+1,19,Serum,57,M,2025-02-20,PA,Afua,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode01|Human|2025-02-20,Yellow fever virus,233138,14350.9,92.2778,South America I
+5,26,Serum,44,M,2025-02-19,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode03|Human|2025-02-19,Yellow fever virus,41831,850.34,53.7595,South America I
+6,29,Serum,17,M,2025-02-20,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode04|Human|2025-02-20,Yellow fever virus,3998,181.31,66.6728,South America I
+7,27,Serum,53,M,2025-02-19,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode05|Human|2025-02-19,Yellow fever virus,25483,1373.39,74.6536,South America I
+8,29,Serum,36,M,2025-02-20,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode06|Human|2025-02-20,Yellow fever virus,831,32.1658,46.5084,South America I
+13,17,Serum,27,M,2025-02-20,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode07|Human|2025-02-20,Yellow fever virus,276807,14844.8,92.3979,South America I
+16,26,Serum,26,M,2025-02-25,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode08|Human|2025-02-25,Yellow fever virus,12180,585.911,74.4596,South America I
+17,18,Serum,20,M,2025-02-25,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode09|Human|2025-02-25,Yellow fever virus,136205,7013.96,88.583,South America I
+21,35,Serum,39,M,2025-02-28,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode10|Human|2025-02-28,Yellow fever virus,2777,132.972,64.3266,South America I
+30,32,Serum,17,M,2025-03-10,PA,Breves,Forest/Remote rural,Human,LACENPA_YFV_20250314_barcode13|Human|2025-03-10,Yellow fever virus,5252,244.251,70.3399,South America I
+6848.23BM,29,Serum,41,M,2023-02-22,MG,Monte Santo de Minas,Rural/peri-urban,Human,YFV|6848.23BM|MG|Human|2023-02-22,Yellow fever virus,150632,1485.98,51,South America I
+309.24FA,22,Spleen,NA,NA,2024-04-03,MG,Bueno Brandao,Rural/peri-urban,NHP,YFV|309.24FA|MG|PNH|2024-04-03,Yellow fever virus,85370,4230.8,99,South America I
+391.24FA,25,Liver,NA,NA,2024-05-13,MG,Santa Rita de Caldas,Rural,NHP,YFV|391.24FA|MG|PNH|2024-05-13,Yellow fever virus,254791,2500.3,94,South America I
+278.24SEQ,17,Liver,NA,NA,2024-07-01,MG,Belo Horizonte,Urban,NHP,YFV|278.24SEQ|MG|PNH|2024-07-01,Yellow fever virus,91652,1350.46,85,South America I
+929.24FA,17,Liver,NA,NA,2024-10-21,MG,Ipuiuna,Rural,NHP,YFV|929.24FA|MG|PNH|2024-10-21,Yellow fever virus,1326449,13367.1,98,South America I
+933.24FA,16,Liver,NA,NA,2024-10-21,MG,Ipuiuna,Rural,NHP,YFV|933.24FA|MG|PNH|2024-10-21,Yellow fever virus,602786,6304.1,99,South America I
+1.25FA,25,Serum,65,M,2024-12-26,MG,Itapeva,Rural,Human,YFV|1.25FA|MG|Human|2024-12-26,Yellow fever virus,178453,1990.3,73,South America I
+14.25FA,34,Serum,21,M,2025-01-17,MG,Extrema,Peri-urban,Human,YFV|14.25FA|MG|Human|2025-01-17,Yellow fever virus,9676,102.32,72,South America I
+24.25FA,17,Liver,NA,NA,2025-01-20,MG,Toledo,Rural,NHP,YFV|24.25FA|MG|PNH|2025-01-20,Yellow fever virus,232269,10723.4,96,South America I
+137.25FA,18,Liver,NA,NA,2024-08-13,MG,Pocos de Caldas,Peri-urban,NHP,YFV|137.25FA|MG|PNH|2024-08-13,Yellow fever virus,183649,8624.54,99,South America I
+189.25FA,12,Liver,NA,NA,2025-01-24,MG,Corrego do Bom Jesus,Rural,NHP,YFV|189.25FA|MG|PNH|2025-01-24,Yellow fever virus,163034,1672.48,94,South America I
+197.25FA,11,Liver,NA,NA,2025-02-07,MG,Estiva,Rural/peri-urban,NHP,YFV|197.25FA|MG|PNH|2025-02-07,Yellow fever virus,149664,1546.77,94,South America I
+217.25FA,12,Liver,NA,NA,2025-02-11,MG,Poco Fundo,Rural,NHP,YFV|217.25FA|MG|PNH|2025-02-11,Yellow fever virus,149546,1546.42,94,South America I
+226.25FA,27,Serum,54,M,2025-02-18,MG,Cambui,Peri-urban,Human,YFV|226.25FA|MG|Human|2025-02-18,Yellow fever virus,737,7.33,20,South America I
+232.25FA,31,Lung,NA,NA,2025-02-19,MG,Sapucai-Mirim,Rural,NHP,YFV|232.25FA|MG|PNH|2025-02-19,Yellow fever virus,6129,63,20,South America I
